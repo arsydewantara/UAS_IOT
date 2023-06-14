@@ -51,6 +51,7 @@ Sensor DHT akan mempublish suhu dan kelembaban ke setiap ruangan broker yang sud
 ![image](https://github.com/arsydewantara/UAS_IOT/assets/74332636/3d5735c9-d380-4c78-bafe-9219a8ee297f)
 * Halaman Bedroom
 ![image](https://github.com/arsydewantara/UAS_IOT/assets/74332636/6db1ac40-79bd-4cdc-9ad4-1ef42f3ee1fb)
+
 * Kodular
 ![WhatsApp Image 2023-06-14 at 13 48 24](https://github.com/arsydewantara/UAS_IOT/assets/74332636/1032e42e-04da-4765-a10f-d7b9490ed625)
 
